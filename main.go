@@ -15,8 +15,8 @@ const (
 	header = `<!DOCTYPE html>
 <html>
   <head>
-    <title>Markdown Preview Tool</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Markdown Preview Tool</title>
   </head>
   <body>
   `
